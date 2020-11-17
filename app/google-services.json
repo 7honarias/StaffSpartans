@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "899487476981",
+    "firebase_url": "https://spartansbarbers-dbe43.firebaseio.com",
+    "project_id": "spartansbarbers-dbe43",
+    "storage_bucket": "spartansbarbers-dbe43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899487476981:android:3a7d75996396ffcd1069bc",
+        "android_client_info": {
+          "package_name": "com.cucutain.spartansbarbers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899487476981-qvl2fhtfsplgc9qejguagcorjnf1s692.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cucutain.spartansbarbers",
+            "certificate_hash": "f3b908ec9c90cda80bb8ba3b9e0ac4c553d665f4"
+          }
+        },
+        {
+          "client_id": "899487476981-jc39jibf94quscmmh8i35rfoilmg5b8j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACrTVUN9UxSj4n3yT7rQ-iO64baBNwq_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899487476981-jc39jibf94quscmmh8i35rfoilmg5b8j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899487476981:android:2fbc93821656bba11069bc",
+        "android_client_info": {
+          "package_name": "com.cucutain.staffspartans"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899487476981-orkfh2om7ipd5qh4qg1vb49c1dt422fi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cucutain.staffspartans",
+            "certificate_hash": "f3b908ec9c90cda80bb8ba3b9e0ac4c553d665f4"
+          }
+        },
+        {
+          "client_id": "899487476981-jc39jibf94quscmmh8i35rfoilmg5b8j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACrTVUN9UxSj4n3yT7rQ-iO64baBNwq_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899487476981-jc39jibf94quscmmh8i35rfoilmg5b8j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
